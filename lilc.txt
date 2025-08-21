@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="MyStyleSheet.css">
+		<title>Tuffest Website Ever</title>
+	</head>
+	<body>
+		<h1>Charles’s Web Page</h1>
+		<h2>The nonchalant 6’7 dihh monster</h2>
+		<p>Clairo fan, drinks matcha, owns a labubu, female manipulator</p>
+		<img src="Iced-Matcha-Latte2.jpg" alt="you piss me off" width="600">
+		<a href="https://www.bing.com/images/search?view=detailV2&ccid=PlSOPf0P&id=8F8B0B72344F5C6448E3213C43ABB7E130D8E3D3&thid=OIP.PlSOPf0P4bjWd-LTLwofHgHaHa&mediaurl=https%3a%2f%2fwww.bhphotovideo.com%2fimages%2fimages2500x2500%2fnikon_13302_d7100_dslr_camera_with_1005009.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3e548e3dfd0fe1b8d677e2d32f0a1f1e%3frik%3d0%252bPYMOG3q0M8IQ%26pid%3dImgRaw%26r%3d0&exph=2500&expw=2500&q=photo+of+a+camera&simid=608050358225082732&FORM=IRPRST&ck=4AA90F9B38D156EC305379F8031AAAE5&selectedIndex=0&itb=0" target="_blank">
+		</a>
+		<p>This is where you put your message.</p>
+		<div class="row">
+			<p class="shrt">This is a demonstration.</p>
+			<p class="shrt">This is message two.</p>
+		</div>
+		<div style="clear: both;"></div>
+		<ol>
+			<li>Best snacks
+				<ol type="A">
+				<li>Jacob
+					<ol type="I">
+					<li>Rice Krispies</li>
+					</ol>
+				</li>
+				<li>Isabella
+					<ol type="I">
+					<li>Goldfish</li>
+					</ol>
+				</ol>
+			</li>
+			<li>Blue is my favorite color</li>
+			<li>I can sign the abc song</li>
+			<li>41 is the best meme</li>
+			<li>Snake</li>
+		</ol>
+		<a href="https://www.google.com/imgres?q=picture%20of%20a%20camera&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F00%2F79%2F36%2F04%2F360_F_79360425_13tH0FGR7nYTNlXWKOWtLmzk7BAikO1b.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcamera&docid=aNNsAeduRcindM&tbnid=5KhaDZaL9YHcrM&vet=12ahUKEwij3Yrd2JePAxWdD0QIHYaLN10QM3oECCYQAA..i&w=502&h=360&hcb=2&ved=2ahUKEwij3Yrd2JePAxWdD0QIHYaLN10QM3oECCYQAA" target="_blank">
+			<img src="nikon_13302_d7100_dslr_camera_with_1005009.jpg" alt="a picture of a camera" width="600">
+		</a>
+	</body>
+</html>
