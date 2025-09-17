@@ -1,0 +1,51 @@
+body {
+	background-color:white;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+	color: #800000; /* Dark maroon for body text */
+	text-align: center; /* Keeps paragraphs left-aligned */
+}
+h1{
+	display: inline-block; /*Shrinks width to fit text */
+	background-color:lightblue;
+	font-size: 32pt
+	color: red;
+	padding: 5px 10px;
+	margin: 20 px auto;
+	text-align:center;
+}
+h2{
+display: inline-block; /*Shrinks width to fit text */
+background-color:purple;
+font-size: 16pt
+color: lightblue;
+padding: 5px 10px;
+margin: 20 px auto;
+text-align:left;
+}
+p {
+font-family:"Times New Roman", Times, Serif;
+font-size:12pt;
+color:black;
+text-align:left;
+}
+p.shrt{
+display:inline-block;
+background-color:lightyellow;
+width:600px;
+padding: 5 px 10 px;
+margin: 10 px 0;
+text-align:center;
+}
+img{
+display:block;
+float:left;
+margin: 0n 15px 15px 0
+}
+.row{
+display:flex;
+gap:20 px;
+}
+li{
+text-align:left;
+}
